@@ -1,29 +1,32 @@
-# NOTICE — Attribution & Copyright
+<p align="center">
+  <strong>简体中文</strong> ·
+  <a href="NOTICE.en.md">English</a>
+</p>
 
-## Third-party book
+# NOTICE — 归属与版权说明
 
-This Agent Skill synthesizes **operational frameworks and practices** described in:
+## 第三方著作
 
-- Christina Wodtke, *Radical Focus* (English)
-- 克里斯蒂娜·沃特克 著，明道团队 译，《OKR工作法》（中文版，中信出版社等）
+本 Agent Skill 结构化提炼了下列著作中的**可操作框架与实践**（非原文转载）：
 
-The book (including its fictional narrative) remains the property of its author(s), translator(s), and publisher(s). **This repository is not affiliated with or endorsed by the author, translators, or publishers.**
+- Christina Wodtke，《Radical Focus》（英文）
+- 克里斯蒂娜·沃特克 著，明道团队 译，《OKR工作法》（中文版）
 
-## What this repo contains
+原书（含虚构叙事）版权归作者、译者与出版社所有。**本仓库与上述权利方无隶属或背书关系。**
 
-- Structured decision rules, checklists, and **original Chinese templates** for Agent use
-- Condensed methodological notes intended for progressive disclosure in AI coding agents
+## 本仓库包含
 
-## What this repo does not contain
+- 面向 Agent 的决策规则、清单，以及**原创中英模板**
+- 供渐进披露使用的方法论精炼笔记
 
-- Verbatim chapters or long quotations from the book
-- Scanned or OCR dumps of the PDF
-- A substitute for reading the original work
+## 本仓库不包含
 
-Please purchase and read the original book for full context, stories, and nuance.
+- 原书章节原文或大段引文
+- PDF / OCR 全文转储
+- 可替代阅读原著的完整叙事
 
-Chinese notice: [NOTICE.zh-CN.md](NOTICE.zh-CN.md)
+完整语境与故事请购买并阅读正版。
 
-## License boundary
+## 许可边界
 
-The MIT License applies to the **compilation, templates, and wording contributed in this repository**. It does **not** grant rights to the underlying book text or trademarks of third parties.
+MIT 许可适用于本仓库的**汇编、模板与贡献文案**，**不**授予原书文本或第三方商标权利。

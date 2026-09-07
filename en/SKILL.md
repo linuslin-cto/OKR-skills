@@ -12,9 +12,15 @@ description: >-
 
 # OKR Skills (Wodtke / Radical Focus frameworks)
 
-Open-source Agent Skill: executable OKR structure, not a book reprint. See [NOTICE.md](../NOTICE.md).
+<p>
 
-**Locale:** English (`en/`). Chinese: [../zh-CN/SKILL.md](../zh-CN/SKILL.md).
+<a href="../zh-CN/SKILL.md">← 简体中文</a> · <strong>English (this page)</strong>
+
+</p>
+
+Open-source Agent Skill: executable OKR structure, not a book reprint. See [NOTICE.en.md](../NOTICE.en.md) · [NOTICE.md](../NOTICE.md).
+
+**Locale:** `en/`. Root entry (Chinese-first) → [../SKILL.md](../SKILL.md).
 
 ## Agent rules
 
@@ -93,4 +99,4 @@ Templates → [examples.md](examples.md) · Cheatsheet → [cheatsheet.md](cheat
 
 ## Scope
 
-Framework synthesis from Wodtke’s OKR practice writing (book includes narrative cases). Not a substitute for company policy. See [NOTICE.md](../NOTICE.md).
+Framework synthesis from Wodtke’s OKR practice writing (book includes narrative cases). Not a substitute for company policy. See [NOTICE.en.md](../NOTICE.en.md).

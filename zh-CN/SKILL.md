@@ -12,9 +12,15 @@ description: >-
 
 # OKR工作法（Wodtke / 《OKR工作法》框架）
 
-开源 Agent Skill：结构化提炼可执行的 OKR 方法，非原书全文。出处与版权边界见 [NOTICE.zh-CN.md](../NOTICE.zh-CN.md) / [NOTICE.md](../NOTICE.md)。
+<p>
 
-**语种：** 中文（`zh-CN/`）。English → [../en/SKILL.md](../en/SKILL.md)。根目录多语种路由 → [../SKILL.md](../SKILL.md)。
+**简体中文（本页）** · <a href="../en/SKILL.md">English →</a>
+
+</p>
+
+开源 Agent Skill：结构化提炼可执行的 OKR 方法，非原书全文。出处与版权边界见 [NOTICE.md](../NOTICE.md) · [NOTICE.en.md](../NOTICE.en.md)。
+
+**语种目录：** `zh-CN/`（默认）。根入口（含跳转）→ [../SKILL.md](../SKILL.md)。
 
 ## Agent 必做规则
 
@@ -95,4 +101,4 @@ description: >-
 
 ## Scope
 
-框架提炼自沃特克 OKR 实践著作（书中含大量叙事案例）。不替代公司制度与法务。完整叙事与细节请阅读正版书籍；本 skill 只保留可执行结构。详见 [NOTICE.zh-CN.md](../NOTICE.zh-CN.md)。
+框架提炼自沃特克 OKR 实践著作（书中含大量叙事案例）。不替代公司制度与法务。完整叙事与细节请阅读正版书籍；本 skill 只保留可执行结构。详见 [NOTICE.md](../NOTICE.md)。
