@@ -22,6 +22,8 @@ The book (including its fictional narrative) remains the property of its author(
 
 Please purchase and read the original book for full context, stories, and nuance.
 
+Chinese notice: [NOTICE.zh-CN.md](NOTICE.zh-CN.md)
+
 ## License boundary
 
 The MIT License applies to the **compilation, templates, and wording contributed in this repository**. It does **not** grant rights to the underlying book text or trademarks of third parties.
